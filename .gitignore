@@ -1,0 +1,9 @@
+data/
+.test_32x32.mat/
+.train_32x32.mat/
+.test_32x32.mat.1/
+.train_32x32.mat.1/
+.test_32x32.mat.2/
+.train_32x32.mat.2/
+.test_32x32.mat.3/
+.train_32x32.mat.3/
